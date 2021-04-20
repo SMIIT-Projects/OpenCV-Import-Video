@@ -21,6 +21,9 @@ In OpenCV, a video can be read either by using the feed from a camera connected 
 ### Displaying a video
 After reading a video file, we can display the video frame by frame. A frame of a video is simply an image and we display each frame the same way we display images, i.e., we use the function cv2.imshow().
 
+
+https://user-images.githubusercontent.com/80674012/115386849-8ed12f80-a1f7-11eb-89f1-3684d82dbce8.mp4
+
 ### Show Video in Multiple Frame
 
 ### Multiple Video in One Frame
