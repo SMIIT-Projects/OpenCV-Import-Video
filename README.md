@@ -1,5 +1,6 @@
-# OpenCV-Import-Video
-## Play a video using OpenCV
+# Play a video using OpenCV
+
+
 ### OpenCV (Open Source Computer Vision):
 is a computer vision library that contains various functions to perform operations on Images or videos. OpenCV library can be used to perform multiple operations on videos. Let’s see how to play a video using the OpenCV Python.
 To capture a video, we need to create a VideoCapture object. VideoCapture have the device index or the name of a video file. Device index is just the number to specify which camera. If we pass 0 then it is for first camera, 1 for second camera so on. We capture the video frame by frame.
