@@ -26,8 +26,10 @@ After reading a video file, we can display the video frame by frame. A frame of 
 https://user-images.githubusercontent.com/80674012/115386849-8ed12f80-a1f7-11eb-89f1-3684d82dbce8.mp4
 
 ### Show Video in Multiple Frame
+![3](https://user-images.githubusercontent.com/80674012/115387622-9218eb00-a1f8-11eb-8f3d-c7876bc04fe3.png)
 
 ### Multiple Video in One Frame
+
 
 ### Blog Site: 
 https://www.smiit.xyz/opencv-import-videos/
